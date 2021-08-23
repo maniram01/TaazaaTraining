@@ -1,0 +1,16 @@
+F:\Taazaa\Delegate\Delegate\bin\Debug\net5.0\Delegate.exe
+F:\Taazaa\Delegate\Delegate\bin\Debug\net5.0\Delegate.deps.json
+F:\Taazaa\Delegate\Delegate\bin\Debug\net5.0\Delegate.runtimeconfig.json
+F:\Taazaa\Delegate\Delegate\bin\Debug\net5.0\Delegate.runtimeconfig.dev.json
+F:\Taazaa\Delegate\Delegate\bin\Debug\net5.0\Delegate.dll
+F:\Taazaa\Delegate\Delegate\bin\Debug\net5.0\ref\Delegate.dll
+F:\Taazaa\Delegate\Delegate\bin\Debug\net5.0\Delegate.pdb
+F:\Taazaa\Delegate\Delegate\obj\Debug\net5.0\Delegate.csproj.AssemblyReference.cache
+F:\Taazaa\Delegate\Delegate\obj\Debug\net5.0\Delegate.GeneratedMSBuildEditorConfig.editorconfig
+F:\Taazaa\Delegate\Delegate\obj\Debug\net5.0\Delegate.AssemblyInfoInputs.cache
+F:\Taazaa\Delegate\Delegate\obj\Debug\net5.0\Delegate.AssemblyInfo.cs
+F:\Taazaa\Delegate\Delegate\obj\Debug\net5.0\Delegate.csproj.CoreCompileInputs.cache
+F:\Taazaa\Delegate\Delegate\obj\Debug\net5.0\Delegate.dll
+F:\Taazaa\Delegate\Delegate\obj\Debug\net5.0\ref\Delegate.dll
+F:\Taazaa\Delegate\Delegate\obj\Debug\net5.0\Delegate.pdb
+F:\Taazaa\Delegate\Delegate\obj\Debug\net5.0\Delegate.genruntimeconfig.cache

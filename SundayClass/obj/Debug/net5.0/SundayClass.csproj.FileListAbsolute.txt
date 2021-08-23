@@ -1,0 +1,16 @@
+F:\Taazaa\SundayClass\bin\Debug\net5.0\SundayClass.exe
+F:\Taazaa\SundayClass\bin\Debug\net5.0\SundayClass.deps.json
+F:\Taazaa\SundayClass\bin\Debug\net5.0\SundayClass.runtimeconfig.json
+F:\Taazaa\SundayClass\bin\Debug\net5.0\SundayClass.runtimeconfig.dev.json
+F:\Taazaa\SundayClass\bin\Debug\net5.0\SundayClass.dll
+F:\Taazaa\SundayClass\bin\Debug\net5.0\ref\SundayClass.dll
+F:\Taazaa\SundayClass\bin\Debug\net5.0\SundayClass.pdb
+F:\Taazaa\SundayClass\obj\Debug\net5.0\SundayClass.csproj.AssemblyReference.cache
+F:\Taazaa\SundayClass\obj\Debug\net5.0\SundayClass.GeneratedMSBuildEditorConfig.editorconfig
+F:\Taazaa\SundayClass\obj\Debug\net5.0\SundayClass.AssemblyInfoInputs.cache
+F:\Taazaa\SundayClass\obj\Debug\net5.0\SundayClass.AssemblyInfo.cs
+F:\Taazaa\SundayClass\obj\Debug\net5.0\SundayClass.csproj.CoreCompileInputs.cache
+F:\Taazaa\SundayClass\obj\Debug\net5.0\SundayClass.dll
+F:\Taazaa\SundayClass\obj\Debug\net5.0\ref\SundayClass.dll
+F:\Taazaa\SundayClass\obj\Debug\net5.0\SundayClass.pdb
+F:\Taazaa\SundayClass\obj\Debug\net5.0\SundayClass.genruntimeconfig.cache
