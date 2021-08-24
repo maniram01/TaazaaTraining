@@ -1,0 +1,16 @@
+F:\Github\FunDelegate\bin\Debug\net5.0\FunDelegate.exe
+F:\Github\FunDelegate\bin\Debug\net5.0\FunDelegate.deps.json
+F:\Github\FunDelegate\bin\Debug\net5.0\FunDelegate.runtimeconfig.json
+F:\Github\FunDelegate\bin\Debug\net5.0\FunDelegate.runtimeconfig.dev.json
+F:\Github\FunDelegate\bin\Debug\net5.0\FunDelegate.dll
+F:\Github\FunDelegate\bin\Debug\net5.0\ref\FunDelegate.dll
+F:\Github\FunDelegate\bin\Debug\net5.0\FunDelegate.pdb
+F:\Github\FunDelegate\obj\Debug\net5.0\FunDelegate.csproj.AssemblyReference.cache
+F:\Github\FunDelegate\obj\Debug\net5.0\FunDelegate.GeneratedMSBuildEditorConfig.editorconfig
+F:\Github\FunDelegate\obj\Debug\net5.0\FunDelegate.AssemblyInfoInputs.cache
+F:\Github\FunDelegate\obj\Debug\net5.0\FunDelegate.AssemblyInfo.cs
+F:\Github\FunDelegate\obj\Debug\net5.0\FunDelegate.csproj.CoreCompileInputs.cache
+F:\Github\FunDelegate\obj\Debug\net5.0\FunDelegate.dll
+F:\Github\FunDelegate\obj\Debug\net5.0\ref\FunDelegate.dll
+F:\Github\FunDelegate\obj\Debug\net5.0\FunDelegate.pdb
+F:\Github\FunDelegate\obj\Debug\net5.0\FunDelegate.genruntimeconfig.cache

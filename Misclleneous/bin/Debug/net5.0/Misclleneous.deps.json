@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Misclleneous/1.0.0": {
+        "runtime": {
+          "Misclleneous.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Misclleneous/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

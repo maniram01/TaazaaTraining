@@ -1,0 +1,16 @@
+F:\Taazaa\Arrylist\AdvanceArraylist\bin\Debug\net5.0\AdvanceArraylist.exe
+F:\Taazaa\Arrylist\AdvanceArraylist\bin\Debug\net5.0\AdvanceArraylist.deps.json
+F:\Taazaa\Arrylist\AdvanceArraylist\bin\Debug\net5.0\AdvanceArraylist.runtimeconfig.json
+F:\Taazaa\Arrylist\AdvanceArraylist\bin\Debug\net5.0\AdvanceArraylist.runtimeconfig.dev.json
+F:\Taazaa\Arrylist\AdvanceArraylist\bin\Debug\net5.0\AdvanceArraylist.dll
+F:\Taazaa\Arrylist\AdvanceArraylist\bin\Debug\net5.0\ref\AdvanceArraylist.dll
+F:\Taazaa\Arrylist\AdvanceArraylist\bin\Debug\net5.0\AdvanceArraylist.pdb
+F:\Taazaa\Arrylist\AdvanceArraylist\obj\Debug\net5.0\AdvanceArraylist.csproj.AssemblyReference.cache
+F:\Taazaa\Arrylist\AdvanceArraylist\obj\Debug\net5.0\AdvanceArraylist.GeneratedMSBuildEditorConfig.editorconfig
+F:\Taazaa\Arrylist\AdvanceArraylist\obj\Debug\net5.0\AdvanceArraylist.AssemblyInfoInputs.cache
+F:\Taazaa\Arrylist\AdvanceArraylist\obj\Debug\net5.0\AdvanceArraylist.AssemblyInfo.cs
+F:\Taazaa\Arrylist\AdvanceArraylist\obj\Debug\net5.0\AdvanceArraylist.csproj.CoreCompileInputs.cache
+F:\Taazaa\Arrylist\AdvanceArraylist\obj\Debug\net5.0\AdvanceArraylist.dll
+F:\Taazaa\Arrylist\AdvanceArraylist\obj\Debug\net5.0\ref\AdvanceArraylist.dll
+F:\Taazaa\Arrylist\AdvanceArraylist\obj\Debug\net5.0\AdvanceArraylist.pdb
+F:\Taazaa\Arrylist\AdvanceArraylist\obj\Debug\net5.0\AdvanceArraylist.genruntimeconfig.cache
