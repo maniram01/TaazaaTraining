@@ -1,0 +1,13 @@
+Remark
+
+        Controller is unstructured due to not applied proper attributes routing ,route prefix.route  constraint   .....Done
+        there is no model validation(data annotation or fluent model valodation)  .........
+        there is lack of hjoining because atleast you need have two table for  relationship in proper demostration (one to one) or (one to many)......
+        do write a Asynchronous programming by implementing class Asyn and await.
+        security
+        controller insewcure means variavle authentication so you need to write logic for securting for controller using custom middleware
+        need to handle run time exception using try throw catch.
+
+
+
+
